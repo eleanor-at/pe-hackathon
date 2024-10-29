@@ -11,5 +11,5 @@ idées objectifs :
 - regroupement données par période (v)
 - pour un pays fixé (on peut le faire plusieurs fois), tracer l'évolution du bonheur/malheur sur les dernières années (v)
 - par pays, calculer la moy de chaque colonne sur la plage d'années renséignées (v)
-- tracé du bonheur en fonction de la croissance économique
-- bonheur en fonction de l'échelle social (v)
+- tracé du bonheur en fonction de la croissance économique (PIB) (v)
+- perception de la corruption en focntion de l'affect negatif en 2022 (v)
